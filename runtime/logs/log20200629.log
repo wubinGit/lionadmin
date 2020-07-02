@@ -1,0 +1,184 @@
+[ERROR][DeployContoller.go:176]2020/06/29 15:41:53 [open #!/bin/bash
+
+#--------- build scripts env ---------
+env_workspace=/tmp/syncd_data/tmp/2
+env_pack_file=/tmp/syncd_data/tar/2.tgz
+cd ${env_workspace}
+mvn -U clean install -Dmaven.test.skip=true -Dmaven.javadoc.skip=true 
+cd ${env_workspace}/target
+tar -zcvf ${env_pack_file} *: The system cannot find the path specified.]
+[FATAL][DeployContoller.go:178]2020/06/29 15:41:53 [open #!/bin/bash
+
+#--------- build scripts env ---------
+env_workspace=/tmp/syncd_data/tmp/2
+env_pack_file=/tmp/syncd_data/tar/2.tgz
+cd ${env_workspace}
+mvn -U clean install -Dmaven.test.skip=true -Dmaven.javadoc.skip=true 
+cd ${env_workspace}/target
+tar -zcvf ${env_pack_file} *: The system cannot find the path specified.]
+[ERROR][DeployContoller.go:176]2020/06/29 15:42:51 [open #!/bin/bash
+
+#--------- build scripts env ---------
+env_workspace=/tmp/syncd_data/tmp/2
+env_pack_file=/tmp/syncd_data/tar/2.tgz
+cd ${env_workspace}
+mvn -U clean install -Dmaven.test.skip=true -Dmaven.javadoc.skip=true 
+cd ${env_workspace}/target
+tar -zcvf ${env_pack_file} *: The system cannot find the path specified.]
+[FATAL][DeployContoller.go:178]2020/06/29 15:42:51 [open #!/bin/bash
+
+#--------- build scripts env ---------
+env_workspace=/tmp/syncd_data/tmp/2
+env_pack_file=/tmp/syncd_data/tar/2.tgz
+cd ${env_workspace}
+mvn -U clean install -Dmaven.test.skip=true -Dmaven.javadoc.skip=true 
+cd ${env_workspace}/target
+tar -zcvf ${env_pack_file} *: The system cannot find the path specified.]
+[ERROR][DeployContoller.go:176]2020/06/29 15:43:31 [open #!/bin/bash
+
+#--------- build scripts env ---------
+env_workspace=/tmp/syncd_data/tmp/2
+env_pack_file=/tmp/syncd_data/tar/2.tgz
+cd ${env_workspace}
+mvn -U clean install -Dmaven.test.skip=true -Dmaven.javadoc.skip=true 
+cd ${env_workspace}/target
+tar -zcvf ${env_pack_file} *: The system cannot find the path specified.]
+[FATAL][DeployContoller.go:178]2020/06/29 15:43:48 [open #!/bin/bash
+
+#--------- build scripts env ---------
+env_workspace=/tmp/syncd_data/tmp/2
+env_pack_file=/tmp/syncd_data/tar/2.tgz
+cd ${env_workspace}
+mvn -U clean install -Dmaven.test.skip=true -Dmaven.javadoc.skip=true 
+cd ${env_workspace}/target
+tar -zcvf ${env_pack_file} *: The system cannot find the path specified.]
+[ERROR][DeployContoller.go:177]2020/06/29 15:49:37 [open #!/bin/bash
+
+#--------- build scripts env ---------
+env_workspace=/tmp/syncd_data/tmp/2
+env_pack_file=/tmp/syncd_data/tar/2.tgz
+cd ${env_workspace}
+mvn -U clean install -Dmaven.test.skip=true -Dmaven.javadoc.skip=true 
+cd ${env_workspace}/target
+tar -zcvf ${env_pack_file} *: The system cannot find the path specified.]
+[INFO][DeployContoller.go:150]2020/06/29 16:43:55 []
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 []
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 []
+[ERROR][DeployContoller.go:148]2020/06/29 16:43:59 [Process exited with status 128]
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 []
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 [Now is 2020年 06月 29日 星期一 16:43:59 CST
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 [Run user is xlf
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 []
+[ERROR][DeployContoller.go:148]2020/06/29 16:43:59 [Process exited with status 127]
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 []
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 []
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 []
+[INFO][DeployContoller.go:150]2020/06/29 16:43:59 [Compile completed 2020年 06月 29日 星期一 16:43:59 CST
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:45:45 []
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 []
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 []
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 [Now is 2020年 06月 29日 星期一 16:45:48 CST
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 [Run user is xlf
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 []
+[ERROR][DeployContoller.go:148]2020/06/29 16:45:48 [Process exited with status 127]
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 []
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 []
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 []
+[INFO][DeployContoller.go:150]2020/06/29 16:45:48 [Compile completed 2020年 06月 29日 星期一 16:45:48 CST
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:49:07 []
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 []
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 []
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 [Now is 2020年 06月 29日 星期一 16:49:12 CST
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 [Run user is xlf
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 []
+[ERROR][DeployContoller.go:148]2020/06/29 16:49:11 [/bin/bash -c 1.sh]
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 []
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 []
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 []
+[INFO][DeployContoller.go:150]2020/06/29 16:49:11 [Compile completed 2020年 06月 29日 星期一 16:49:12 CST
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:50:44 []
+[INFO][DeployContoller.go:150]2020/06/29 16:50:49 []
+[INFO][DeployContoller.go:150]2020/06/29 16:50:49 []
+[INFO][DeployContoller.go:150]2020/06/29 16:50:49 [Now is 2020年 06月 29日 星期一 16:50:49 CST
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:50:49 [Run user is xlf
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:50:49 []
+[INFO][DeployContoller.go:150]2020/06/29 16:50:51 [[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------< [0;36morg.example:springbot-syncd[0;1m >---------------------[m
+[[1;34mINFO[m] [1mBuilding springbot-syncd 1.0-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:3.1.0:clean[m [1m(default-clean)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Deleting /tmp/syncd_data/tmp/2/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.1.0:resources[m [1m(default-resources)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Copying 1 resource
+[[1;34mINFO[m] Copying 0 resource
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.1:compile[m [1m(default-compile)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 2 source files to /tmp/syncd_data/tmp/2/target/classes
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.1.0:testResources[m [1m(default-testResources)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Not copying test resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.1:testCompile[m [1m(default-testCompile)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Not compiling test sources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.22.2:test[m [1m(default-test)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Tests are skipped.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-jar-plugin:3.1.2:jar[m [1m(default-jar)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Building jar: /tmp/syncd_data/tmp/2/target/springbot-syncd-1.0-SNAPSHOT.jar
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mspring-boot-maven-plugin:2.2.1.RELEASE:repackage[m [1m(repackage)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Replacing main artifact with repackaged archive
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-install-plugin:2.5.2:install[m [1m(default-install)[m @ [36mspringbot-syncd[0;1m ---[m
+[[1;34mINFO[m] Installing /tmp/syncd_data/tmp/2/target/springbot-syncd-1.0-SNAPSHOT.jar to /home/xlf/.m2/repository/org/example/springbot-syncd/1.0-SNAPSHOT/springbot-syncd-1.0-SNAPSHOT.jar
+[[1;34mINFO[m] Installing /tmp/syncd_data/tmp/2/pom.xml to /home/xlf/.m2/repository/org/example/springbot-syncd/1.0-SNAPSHOT/springbot-syncd-1.0-SNAPSHOT.pom
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  1.495 s
+[[1;34mINFO[m] Finished at: 2020-06-29T16:50:51+08:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+classes/
+classes/syncd/
+classes/syncd/Application.class
+classes/syncd/controller/
+classes/syncd/controller/syncd.class
+classes/application.yml
+generated-sources/
+generated-sources/annotations/
+maven-archiver/
+maven-archiver/pom.properties
+maven-status/
+maven-status/maven-compiler-plugin/
+maven-status/maven-compiler-plugin/compile/
+maven-status/maven-compiler-plugin/compile/default-compile/
+maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+springbot-syncd-1.0-SNAPSHOT.jar
+springbot-syncd-1.0-SNAPSHOT.jar.original
+]
+[INFO][DeployContoller.go:150]2020/06/29 16:50:51 []
+[INFO][DeployContoller.go:150]2020/06/29 16:50:51 []
+[INFO][DeployContoller.go:150]2020/06/29 16:50:51 [Compile completed 2020年 06月 29日 星期一 16:50:52 CST
+]
+[INFO][DeployContoller.go:174]2020/06/29 17:25:22 [0xc0000260f0]
+[INFO][DeployContoller.go:175]2020/06/29 17:25:22 [0xc00006a000]
+[INFO][DeployContoller.go:174]2020/06/29 17:26:00 [0xc0000261b0]
+[INFO][DeployContoller.go:175]2020/06/29 17:26:29 [0xc0000a62d0]

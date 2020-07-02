@@ -1,0 +1,235 @@
+
+[INFO][BuildContoller.go:303]2020/07/01 14:43:17 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:309]2020/07/01 14:43:17 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:312]2020/07/01 14:43:17 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:331]2020/07/01 14:43:21 [C:/Users/lenovo/Desktop/package/tmp/yqVnQeDPvfcpkN7JK0zvtty4.bat ]
+[INFO][BuildContoller.go:346]2020/07/01 14:43:21 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/tmp.tgz *]
+
+[INFO][BuildContoller.go:277]2020/07/01 14:51:34 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:282]2020/07/01 14:51:38 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:277]2020/07/01 14:51:38 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:282]2020/07/01 14:51:38 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:269]2020/07/01 14:51:38 [C:/Users/lenovo/Desktop/package/tmp/pHATOL09wPPkQSzvAIJD1kc2.sh]
+[INFO][BuildContoller.go:282]2020/07/01 14:51:38 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:287]2020/07/01 14:51:38 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:281]2020/07/01 15:04:25 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:286]2020/07/01 15:04:28 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:281]2020/07/01 15:04:28 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:286]2020/07/01 15:04:28 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:271]2020/07/01 15:04:28 [C:/Users/lenovo/Desktop/package/tmp/7rvDQdvBnN2b8JnsYgQoYffM.sh]
+[INFO][BuildContoller.go:286]2020/07/01 15:04:28 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:291]2020/07/01 15:04:28 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:281]2020/07/01 15:05:54 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:287]2020/07/01 15:05:57 [C:/Users/lenovo/Desktop/package/tmp/2 C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:281]2020/07/01 15:05:57 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:287]2020/07/01 15:05:57 [C:/Users/lenovo/Desktop/package C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:271]2020/07/01 15:05:57 [C:/Users/lenovo/Desktop/package/tmp/gDu1TYRI5sDatlGWtyB3FeTq.sh]
+[INFO][BuildContoller.go:287]2020/07/01 15:05:57 [C:/Users/lenovo/Desktop/package/tmp/2/target C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:293]2020/07/01 15:05:57 [cvf cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:281]2020/07/01 15:07:59 [clone clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:287]2020/07/01 15:07:59 [C:/Users/lenovo/Desktop/package/tmp/2 C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:281]2020/07/01 15:07:59 [checkout checkout -q master]
+[INFO][BuildContoller.go:287]2020/07/01 15:07:59 [C:/Users/lenovo/Desktop/package C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:271]2020/07/01 15:07:59 [C:/Users/lenovo/Desktop/package/tmp/f12JnkX31gE1AEMfptknWXku.sh]
+[INFO][BuildContoller.go:287]2020/07/01 15:07:59 [C:/Users/lenovo/Desktop/package/tmp/2/target C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:293]2020/07/01 15:07:59 [cvf cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:281]2020/07/01 15:40:57 [clone clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:287]2020/07/01 15:40:57 [C:/Users/lenovo/Desktop/package/tmp/2 C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:281]2020/07/01 15:40:57 [checkout checkout -q master]
+[INFO][BuildContoller.go:287]2020/07/01 15:40:57 [C:/Users/lenovo/Desktop/package C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:40:57 [C:/Users/lenovo/Desktop/package/tmp/ToHSsiWVzsu00ePXvqBrx6Ah.sh]
+[INFO][BuildContoller.go:287]2020/07/01 15:40:57 [C:/Users/lenovo/Desktop/package/tmp/2/target C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:293]2020/07/01 15:40:57 [cvf cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:44:56 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:285]2020/07/01 15:44:59 [C:/Users/lenovo/Desktop/package/tmp/2 C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:44:59 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:285]2020/07/01 15:44:59 [C:/Users/lenovo/Desktop/package C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:44:59 [C:/Users/lenovo/Desktop/package/tmp/pUYzL1qCjYgCxHq41J21Lqqd.sh]
+[INFO][BuildContoller.go:285]2020/07/01 15:44:59 [C:/Users/lenovo/Desktop/package/tmp/2/target C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:291]2020/07/01 15:44:59 [cvf cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:45:08 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:285]2020/07/01 15:45:10 [C:/Users/lenovo/Desktop/package/tmp/2 C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:45:10 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:285]2020/07/01 15:45:10 [C:/Users/lenovo/Desktop/package C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:45:10 [C:/Users/lenovo/Desktop/package/tmp/nCQOpuT8yPxTWOfJ12GX8mWM.sh]
+[INFO][BuildContoller.go:285]2020/07/01 15:45:10 [C:/Users/lenovo/Desktop/package/tmp/2/target C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:291]2020/07/01 15:45:10 [cvf cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:46:36 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:285]2020/07/01 15:46:38 [C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:46:38 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:285]2020/07/01 15:46:39 [C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:46:39 [C:/Users/lenovo/Desktop/package/tmp/yX4IEVFvaL486boJ4X5IBhYH.sh]
+[INFO][BuildContoller.go:285]2020/07/01 15:46:39 [C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:291]2020/07/01 15:46:39 [cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:47:56 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:285]2020/07/01 15:47:58 [C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:47:58 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:285]2020/07/01 15:47:59 [C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:47:59 [C:/Users/lenovo/Desktop/package/tmp/8PPcWmB1k3T0oVTUmlPMm1I9.sh]
+[INFO][BuildContoller.go:285]2020/07/01 15:47:59 [C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:291]2020/07/01 15:47:59 [cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:50:30 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:285]2020/07/01 15:50:32 [C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:50:32 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:285]2020/07/01 15:50:33 [C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:50:33 [C:/Users/lenovo/Desktop/package/tmp/24AasFJIpy6B7kIVSkFWz5C0.sh]
+[INFO][BuildContoller.go:285]2020/07/01 15:50:33 [C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:291]2020/07/01 15:50:33 [cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:52:07 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:285]2020/07/01 15:52:09 [C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:52:09 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:285]2020/07/01 15:52:09 [C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:52:09 [C:/Users/lenovo/Desktop/package/tmp/1EpGOXMRSAgJgRjlCo0KmuVK.sh]
+[INFO][BuildContoller.go:285]2020/07/01 15:52:09 [C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:291]2020/07/01 15:52:09 [cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:53:05 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:284]2020/07/01 15:53:08 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:53:08 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:284]2020/07/01 15:53:08 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:53:08 [C:/Users/lenovo/Desktop/package/tmp/wvQ8to9udEK5Mfw9ShQDE4DN.sh]
+[INFO][BuildContoller.go:284]2020/07/01 15:53:08 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:289]2020/07/01 15:53:08 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:54:37 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:284]2020/07/01 15:54:50 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:54:59 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:284]2020/07/01 15:55:09 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:55:41 [C:/Users/lenovo/Desktop/package/tmp/p7GbMh0g7hossMxRWImwlOqS.sh]
+[INFO][BuildContoller.go:284]2020/07/01 15:56:17 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:289]2020/07/01 15:56:18 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:59:05 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:284]2020/07/01 15:59:09 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:59:09 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:284]2020/07/01 15:59:09 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 15:59:09 [C:/Users/lenovo/Desktop/package/tmp/A4XLVT3YiJRuiPoI3h9rhfKE.sh ]
+[INFO][BuildContoller.go:284]2020/07/01 15:59:09 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:289]2020/07/01 15:59:09 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 15:59:52 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:284]2020/07/01 15:59:57 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 15:59:58 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:284]2020/07/01 16:00:00 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 16:00:38 [C:/Users/lenovo/Desktop/package/tmp/hfqDi5oUocd1P4zSgnlnm9rF.sh ]
+[INFO][BuildContoller.go:284]2020/07/01 16:00:41 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:289]2020/07/01 16:00:41 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:279]2020/07/01 16:05:04 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 16:05:38 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:284]2020/07/01 16:05:42 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:279]2020/07/01 16:05:42 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:284]2020/07/01 16:05:42 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:270]2020/07/01 16:05:42 [C:/Users/lenovo/Desktop/package/tmp/qOIUsPkzsunI0i1SoE6qsTvg.bat ]
+[INFO][BuildContoller.go:284]2020/07/01 16:05:45 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:289]2020/07/01 16:05:45 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:335]2020/07/01 17:06:53 [dir ]
+[INFO][BuildContoller.go:343]2020/07/01 17:07:56 []
+[INFO][BuildContoller.go:335]2020/07/01 17:08:02 [dir ]
+[INFO][BuildContoller.go:343]2020/07/01 17:10:03 []
+[INFO][BuildContoller.go:255]2020/07/01 17:12:22 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:260]2020/07/01 17:12:24 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:255]2020/07/01 17:12:24 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:260]2020/07/01 17:12:24 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:248]2020/07/01 17:12:24 [C:/Users/lenovo/Desktop/package/tmp/lc7qoIgxZKdpYyyKRVlAzYgl.bat ]
+[INFO][BuildContoller.go:260]2020/07/01 17:12:28 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:265]2020/07/01 17:12:28 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz *]
+[INFO][BuildContoller.go:255]2020/07/01 17:21:33 [C:\Program Files\Git\cmd\git.exe clone https://github.com/wubinGit/xlf-syncd.git C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:260]2020/07/01 17:21:36 [cd C:/Users/lenovo/Desktop/package/tmp/2]
+[INFO][BuildContoller.go:255]2020/07/01 17:21:36 [C:\Program Files\Git\cmd\git.exe checkout -q master]
+[INFO][BuildContoller.go:260]2020/07/01 17:21:36 [cd C:/Users/lenovo/Desktop/package]
+[INFO][BuildContoller.go:248]2020/07/01 17:21:36 [C:/Users/lenovo/Desktop/package/tmp/jrGg9LEHQl4lQsdJ1Uhu7xlj.bat ]
+[INFO][BuildContoller.go:260]2020/07/01 17:21:39 [cd C:/Users/lenovo/Desktop/package/tmp/2/target]
+[INFO][BuildContoller.go:265]2020/07/01 17:21:39 [C:\Windows\system32\tar.exe cvf C:/Users/lenovo/Desktop/package/tar/2.tgz C:/Users/lenovo/Desktop/package/tmp/2/target/*]
+[INFO][DeployController.go:54]2020/07/01 17:35:20 []
+[INFO][BuildContoller.go:155]2020/07/01 17:48:28 [Cloning into '/tmp/syncd_data/tmp/2'...
+]
+[INFO][BuildContoller.go:155]2020/07/01 17:48:28 []
+[INFO][BuildContoller.go:155]2020/07/01 17:48:28 [Now is Wed Jul 1 17:48:28 CST 2020
+]
+[INFO][BuildContoller.go:155]2020/07/01 17:48:28 [Run user is root
+]
+[INFO][BuildContoller.go:155]2020/07/01 17:48:28 []
+[ERROR][BuildContoller.go:152]2020/07/01 17:48:28 [C:/Users/lenovo/Desktop/package/tmp/cIJe3SjTyMOXJzflODWqwfey.sh]
+[ERROR][BuildContoller.go:153]2020/07/01 17:48:28 [Process exited with status 127]
+[INFO][BuildContoller.go:155]2020/07/01 17:48:28 []
+[INFO][BuildContoller.go:155]2020/07/01 17:48:28 [Compile completed Wed Jul 1 17:48:29 CST 2020
+]
+[ERROR][BuildContoller.go:152]2020/07/01 17:56:24 [git clone https://github.com/wubinGit/xlf-syncd.git /tmp/syncd_data/tmp/2]
+[ERROR][BuildContoller.go:153]2020/07/01 17:56:24 [Process exited with status 128]
+[INFO][BuildContoller.go:155]2020/07/01 17:56:24 []
+[INFO][BuildContoller.go:155]2020/07/01 17:56:24 []
+[INFO][BuildContoller.go:155]2020/07/01 17:56:24 [Now is Wed Jul 1 17:56:25 CST 2020
+]
+[INFO][BuildContoller.go:155]2020/07/01 17:56:24 [Run user is root
+]
+[INFO][BuildContoller.go:155]2020/07/01 17:56:24 []
+[ERROR][BuildContoller.go:152]2020/07/01 17:56:24 [C:/Users/lenovo/Desktop/package/tmp/m8H6KUv0Pc1h1fLZShpR4w4r.sh]
+[ERROR][BuildContoller.go:153]2020/07/01 17:56:24 [Process exited with status 127]
+[INFO][BuildContoller.go:155]2020/07/01 17:56:24 []
+[INFO][BuildContoller.go:155]2020/07/01 17:56:24 [Compile completed Wed Jul 1 17:56:25 CST 2020
+]
+[INFO][DeployController.go:83]2020/07/01 18:36:09 [Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:8009            0.0.0.0:*               LISTEN      15511/jsvc.exec     
+tcp        0      0 0.0.0.0:6379            0.0.0.0:*               LISTEN      20798/redis-server  
+tcp        0      0 0.0.0.0:8080            0.0.0.0:*               LISTEN      15511/jsvc.exec     
+tcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN      28447/nginx: worker 
+tcp        0      0 0.0.0.0:8081            0.0.0.0:*               LISTEN      17784/java          
+tcp        0      0 0.0.0.0:12306           0.0.0.0:*               LISTEN      15982/python        
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      9361/sshd           
+tcp        0      0 0.0.0.0:888             0.0.0.0:*               LISTEN      28447/nginx: worker 
+tcp6       0      0 :::9094                 :::*                    LISTEN      24725/alertmanager  
+tcp6       0      0 :::6379                 :::*                    LISTEN      20798/redis-server  
+tcp6       0      0 :::9100                 :::*                    LISTEN      16872/node_exporter 
+tcp6       0      0 :::3000                 :::*                    LISTEN      9716/grafana-server 
+tcp6       0      0 :::9090                 :::*                    LISTEN      26636/prometheus    
+tcp6       0      0 :::9093                 :::*                    LISTEN      24725/alertmanager  
+]
+[ERROR][DeployController.go:80]2020/07/01 18:36:09 [netstat -anp|grep 445]
+[ERROR][DeployController.go:81]2020/07/01 18:36:09 [Process exited with status 1]
+[INFO][DeployController.go:83]2020/07/01 18:36:09 []
+[INFO][DeployController.go:83]2020/07/01 18:36:09 [root     28925 28907  0 18:36 ?        00:00:00 bash -c ps -ef|grep 8760
+root     28933 28925  0 18:36 ?        00:00:00 grep 8760
+]
+[ERROR][DeployController.go:80]2020/07/01 18:40:40 [java -jar /tmp/syncd_data/tmp/Users/lenovo/Desktop/package/tmp/2/target/springbot-syncd-1.0-SNAPSHOT.jar]
+[ERROR][DeployController.go:81]2020/07/01 18:40:40 [Process exited with status 137 from signal KILL]
+[INFO][DeployController.go:83]2020/07/01 18:40:40 []
+[INFO][DeployController.go:83]2020/07/01 18:40:56 [Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:8009            0.0.0.0:*               LISTEN      15511/jsvc.exec     
+tcp        0      0 0.0.0.0:6379            0.0.0.0:*               LISTEN      20798/redis-server  
+tcp        0      0 0.0.0.0:8080            0.0.0.0:*               LISTEN      15511/jsvc.exec     
+tcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN      28447/nginx: worker 
+tcp        0      0 0.0.0.0:8081            0.0.0.0:*               LISTEN      17784/java          
+tcp        0      0 0.0.0.0:12306           0.0.0.0:*               LISTEN      15982/python        
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      9361/sshd           
+tcp        0      0 0.0.0.0:888             0.0.0.0:*               LISTEN      28447/nginx: worker 
+tcp6       0      0 :::9094                 :::*                    LISTEN      24725/alertmanager  
+tcp6       0      0 :::6379                 :::*                    LISTEN      20798/redis-server  
+tcp6       0      0 :::9100                 :::*                    LISTEN      16872/node_exporter 
+tcp6       0      0 :::3000                 :::*                    LISTEN      9716/grafana-server 
+tcp6       0      0 :::9090                 :::*                    LISTEN      26636/prometheus    
+tcp6       0      0 :::9093                 :::*                    LISTEN      24725/alertmanager  
+]
+[ERROR][DeployController.go:80]2020/07/01 18:40:56 [netstat -anp|grep 445]
+[ERROR][DeployController.go:81]2020/07/01 18:40:56 [Process exited with status 1]
+[INFO][DeployController.go:83]2020/07/01 18:40:56 []
+[INFO][DeployController.go:83]2020/07/01 18:40:56 [root     29017 28999  0 18:40 ?        00:00:00 bash -c ps -ef|grep 8760
+root     29025 29017  0 18:40 ?        00:00:00 grep 8760
+]
+[INFO][DeployController.go:83]2020/07/02 09:06:18 [
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.2.1.RELEASE)
+
+2020-07-01 18:40:59.529  INFO 29033 --- [           main] syncd.Application                        : Starting Application v1.0-SNAPSHOT on master with PID 29033 (/tmp/syncd_data/tmp/Users/lenovo/Desktop/package/tmp/2/target/springbot-syncd-1.0-SNAPSHOT.jar started by root in /root)
+2020-07-01 18:40:59.534  INFO 29033 --- [           main] syncd.Application                        : No active profile set, falling back to default profiles: default
+2020-07-01 18:41:02.106  INFO 29033 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10001 (http)
+2020-07-01 18:41:02.138  INFO 29033 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-01 18:41:02.139  INFO 29033 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-07-01 18:41:02.278  INFO 29033 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-01 18:41:02.278  INFO 29033 --- [           main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2605 ms
+2020-07-01 18:41:03.681  INFO 29033 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-01 18:41:04.233  INFO 29033 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10001 (http) with context path ''
+2020-07-01 18:41:04.236  INFO 29033 --- [           main] syncd.Application                        : Started Application in 5.902 seconds (JVM running for 7.365)
+]

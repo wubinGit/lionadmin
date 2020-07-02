@@ -1,0 +1,12 @@
+host: localhost
+server:
+  port: 10086
+datasource:
+  driverName: mysql
+  host: 192.168.0.198
+  port: 3306
+  database: lionadmin
+  username: root
+  password: 1qaz2wsxE
+  charset: utf8mb4
+RunMode: debug

@@ -1,0 +1,23 @@
+[INFO][BuildContoller.go:153]2020/06/30 18:26:00 []
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 [Cloning into '/tmp/syncd_data/tmp/2'...
+]
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 []
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 [Now is Tue Jun 30 18:26:06 CST 2020
+]
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 [Run user is root
+]
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 []
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 []
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 []
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 [classes/
+classes/application.yml
+]
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 []
+[INFO][BuildContoller.go:153]2020/06/30 18:26:05 [Compile completed Tue Jun 30 18:26:07 CST 2020
+]
+[INFO][DeployController.go:30]2020/06/30 18:46:34 [<nil>]
+[INFO][DeployController.go:31]2020/06/30 18:46:34 [<nil>]
+[INFO][DeployController.go:30]2020/06/30 18:48:06 [0xc00040c750]
+[INFO][DeployController.go:31]2020/06/30 18:48:06 [0xc00039b680]
+[INFO][DeployController.go:30]2020/06/30 18:49:15 [0xc0003f73b0]
+[INFO][DeployController.go:31]2020/06/30 18:49:15 [179]
